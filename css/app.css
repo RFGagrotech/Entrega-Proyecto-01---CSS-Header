@@ -127,10 +127,6 @@ button {
 .aside::before {
   content: "";
   position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 55px;
-  right: 0;
   background: #A9D6CB;
   z-index: -1;
   text-align: center;
